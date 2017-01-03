@@ -1,4 +1,4 @@
-name: Linear
-description: Linear template for Jekyll
+name: SPIN
+description: Subatomic Physics Institute at the University of Saskatchewan
 paginate: 10
 gems: [jekyll-paginate]
