@@ -4,3 +4,4 @@ paginate: 10
 gems: [jekyll-paginate]
 baseurl: ""
 #url:""
+
