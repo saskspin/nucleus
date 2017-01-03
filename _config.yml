@@ -2,3 +2,5 @@ name: SPIN
 description: Subatomic Physics Institute at the University of Saskatchewan
 paginate: 10
 gems: [jekyll-paginate]
+baseurl: ""
+#url:""
