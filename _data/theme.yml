@@ -31,4 +31,9 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - cv.md
+  - members.md
+  - research.md
+  - seminars.md
+  - documents.md
+  - links.md
+  - students.md
